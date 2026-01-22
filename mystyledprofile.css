@@ -1,0 +1,51 @@
+.king{
+    height: 40px;
+    width: 60%;
+    background-color: greenyellow;
+    margin: auto;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.queen{
+    width: 60%;
+    height: 500px;
+    background-color: chocolate;
+    margin: auto;
+    margin-bottom: 25px;
+}
+.princess{
+    width: 60%;
+    height: 500px;
+    background-color: blue;
+    margin: auto;
+    margin: top 25px;
+    margin-bottom: 40px;
+
+}
+.emie{
+    width: 60%;
+    height: 40px
+    ;background-color: pink;
+    margin: auto;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    padding-top: 10px;
+    
+}
+.tall{
+    width: 50%;
+    height: 500px;background-color: yellow;
+    margin: auto;
+    float: right;
+}
+.long{
+    width: 45%;
+    height: 500px; 
+    background-color: purple;
+    float: left;
+    margin: auto;
+}
+
+
+

@@ -1,0 +1,58 @@
+.family {
+    width: 60%;
+    height: 50px;
+    background-color: blue;
+    margin: auto;
+    margin-bottom: 40px;
+    padding-top: 10px;
+}
+
+.prayer {
+    width: 60%;
+    height: 400px;
+    background-color: chartreuse;
+    margin: auto;
+    margin-bottom: 40px;
+    padding-top: 10px;
+}
+.children{
+    width: 60%;
+    height: 200px;
+    background-color: purple;
+    padding-top: 10px;
+    margin: auto;
+    margin-bottom: 40px;
+}
+.partner{
+    width: 60%;
+    height: 50px;
+    margin: auto;
+    padding-top: 10px;
+    margin-bottom: 40px;
+    background-color: darkseagreen;
+}
+.long{
+    height: 400px;
+    width: 57%;
+    background-color: red;
+    float: left;
+    margin: auto;
+}
+.short{
+    width: 40%;
+    height: 90px;
+    background-color: cyan;
+    float: right;
+    margin: auto;
+}
+.small{
+    width: 100%;
+    height: 150px;
+    background-color: navajowhite;
+
+}
+.medium{
+    width: 100%;
+    height: 250px;
+    background-color: maroon;
+}
